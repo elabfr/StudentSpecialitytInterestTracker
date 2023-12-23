@@ -1,5 +1,4 @@
-StudentSpecialityInterestTracker
-Overview:
+
 StudentSpecialityInterestTracker is a Java-based tool designed for university administrators to streamline student engagement monitoring. It provides an intuitive interface for tracking student interests, club affiliations, and administrative functionalities.
 
 Key Features:
